@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>广告行业竞品监测平台</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- 头部 -->
+        <header class="header">
+            <h1>广告行业竞品监测平台</h1>
+            <div class="header-info">
+                <span id="lastUpdate">最后更新: 加载中...</span>
+                <button id="refreshBtn" class="btn-refresh">刷新数据</button>
+            </div>
+        </header>
+
+        <!-- 趋势总览 -->
+        <section class="section trends">
+            <h2>本月行业趋势</h2>
+            <div id="trendsContainer" class="trends-grid">
+                <!-- 动态加载 -->
+            </div>
+        </section>
+
+        <!-- 数据概览 -->
+        <section class="section data-overview">
+            <h2>广告行业数据概览</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>全球广告市场规模</h3>
+                    <div class="stat-value" id="marketSize">--</div>
+                    <div class="stat-change" id="marketChange">--</div>
+                </div>
+                <div class="stat-card">
+                    <h3>平均eCPM趋势</h3>
+                    <div class="stat-value" id="ecpmAvg">--</div>
+                    <div class="stat-change" id="ecpmChange">--</div>
+                </div>
+                <div class="stat-card">
+                    <h3>AI广告占比</h3>
+                    <div class="stat-value" id="aiRatio">--</div>
+                    <div class="stat-change" id="aiChange">--</div>
+                </div>
+                <div class="stat-card">
+                    <h3>移动端预算占比</h3>
+                    <div class="stat-value" id="mobileRatio">--</div>
+                    <div class="stat-change" id="mobileChange">--</div>
+                </div>
+            </div>
+
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <h3>平台市场份额</h3>
+                    <canvas id="marketShareChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3>eCPM趋势（近6个月）</h3>
+                    <canvas id="ecpmTrendChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- 平台动态 -->
+        <section class="section platforms">
+            <h2>平台动态监测</h2>
+            <div class="platform-tabs">
+                <button class="tab-btn active" data-tab="domestic">国内平台</button>
+                <button class="tab-btn" data-tab="overseas">海外平台</button>
+                <button class="tab-btn" data-tab="all">全部</button>
+            </div>
+
+            <div class="platform-filter">
+                <select id="platformSelect">
+                    <option value="all">全部平台</option>
+                    <option value="google">Google Ads</option>
+                    <option value="meta">Meta</option>
+                    <option value="x">X (Twitter)</option>
+                    <option value="tiktok">TikTok</option>
+                    <option value="douyin">抖音/巨量引擎</option>
+                    <option value="tencent">腾讯广告</option>
+                    <option value="kuaishou">快手/磁力引擎</option>
+                    <option value="xiaohongshu">小红书/聚光</option>
+                    <option value="bilibili">B站商业化</option>
+                </select>
+
+                <select id="changeTypeSelect">
+                    <option value="all">全部类型</option>
+                    <option value="product">产品更新</option>
+                    <option value="strategy">策略调整</option>
+                    <option value="data">数据变化</option>
+                    <option value="financial">财报信息</option>
+                </select>
+            </div>
+
+            <div id="updatesContainer" class="updates-list">
+                <!-- 动态加载 -->
+            </div>
+        </section>
+
+        <!-- 行业报告 -->
+        <section class="section reports">
+            <h2>重要行业报告</h2>
+            <div id="reportsContainer" class="reports-grid">
+                <!-- 动态加载 -->
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

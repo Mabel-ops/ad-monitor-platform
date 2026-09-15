@@ -1,0 +1,328 @@
+{
+  "lastUpdate": "2026/9/15 17:04:29",
+  "trends": [
+    {
+      "type": "new",
+      "title": "AI生成式广告成为主流投放形式",
+      "description": "Google、Meta、抖音等主流平台均推出AI生成创意工具，广告主采用率超过45%，平均CTR提升30%以上。",
+      "impact": "降低创意生产成本60%，提升投放效率，但对创意团队技能要求发生结构性变化。"
+    },
+    {
+      "type": "continue",
+      "title": "短视频信息流广告份额持续扩大",
+      "description": "抖音、快手、小红书等短视频平台广告收入同比增长35%，视频类广告占移动端预算比例达到68%。",
+      "impact": "传统图文广告份额下降，广告主预算向短视频平台倾斜，内容创作型代理商获益。"
+    },
+    {
+      "type": "turning",
+      "title": "搜索广告eCPM首次出现季度下降",
+      "description": "Google Ads和百度搜索广告eCPM环比下降8%，结束连续12个季度增长趋势，主要原因是AI搜索减少点击量。",
+      "impact": "搜索广告ROI提升但总量下降，广告主需重新评估搜索渠道投放策略。"
+    }
+  ],
+  "overview": {
+    "marketSize": {
+      "value": "$8226亿",
+      "change": 12.7,
+      "changeText": "↑ 11.8% YoY"
+    },
+    "ecpm": {
+      "value": "¥46.8",
+      "change": -3.9,
+      "changeText": "↓ 7.1% MoM"
+    },
+    "aiRatio": {
+      "value": "45.4%",
+      "change": 17.6,
+      "changeText": "↑ 23.2% MoM"
+    },
+    "mobileRatio": {
+      "value": "78.5%",
+      "change": 3,
+      "changeText": "↑ 0.9% MoM"
+    }
+  },
+  "marketShare": [
+    {
+      "platform": "Google Ads",
+      "share": 28.5
+    },
+    {
+      "platform": "Meta",
+      "share": 22.3
+    },
+    {
+      "platform": "抖音/巨量引擎",
+      "share": 15.8
+    },
+    {
+      "platform": "腾讯广告",
+      "share": 10.2
+    },
+    {
+      "platform": "TikTok",
+      "share": 8.7
+    },
+    {
+      "platform": "快手/磁力引擎",
+      "share": 5.4
+    },
+    {
+      "platform": "小红书/聚光",
+      "share": 4.1
+    },
+    {
+      "platform": "X (Twitter)",
+      "share": 3.2
+    },
+    {
+      "platform": "其他",
+      "share": 1.8
+    }
+  ],
+  "ecpmTrend": [
+    {
+      "month": "2026-03",
+      "value": 38.5
+    },
+    {
+      "month": "2026-04",
+      "value": 41.2
+    },
+    {
+      "month": "2026-05",
+      "value": 44.3
+    },
+    {
+      "month": "2026-06",
+      "value": 46.8
+    },
+    {
+      "month": "2026-07",
+      "value": 44.2
+    },
+    {
+      "month": "2026-08",
+      "value": 42.8
+    }
+  ],
+  "updates": [
+    {
+      "id": "tiktok-1789463069564",
+      "platform": "TikTok",
+      "region": "overseas",
+      "date": "2026-09-15",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "高",
+      "source": "https://business.tiktok.com/updates"
+    },
+    {
+      "id": "google-1789463069564",
+      "platform": "Google Ads",
+      "region": "overseas",
+      "date": "2026-09-15",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "低",
+      "source": "https://ads.google.com/updates"
+    },
+    {
+      "id": "xiaohongshu-1789463069564",
+      "platform": "小红书/聚光",
+      "region": "domestic",
+      "date": "2026-09-15",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://ad.xiaohongshu.com/news"
+    },
+    {
+      "platform": "Google Ads",
+      "platformId": "google",
+      "region": "overseas",
+      "date": "2026-09-05",
+      "changeType": "product",
+      "content": "推出AI Agent广告投放助手，可自动优化出价策略、创意组合和受众定向，测试显示转化成本降低25%。",
+      "impacts": [
+        "效率提升",
+        "成本优化",
+        "AI能力"
+      ],
+      "source": "https://ads.google.com/updates"
+    },
+    {
+      "platform": "Meta",
+      "platformId": "meta",
+      "region": "overseas",
+      "date": "2026-09-04",
+      "changeType": "financial",
+      "content": "Q2财报显示广告收入$385亿，同比增长22%。AI推荐算法带来的广告展示量增长35%，但eCPM下降10%。",
+      "impacts": [
+        "收入增长",
+        "eCPM下降",
+        "AI推荐"
+      ],
+      "source": "https://investor.fb.com/financials"
+    },
+    {
+      "platform": "抖音/巨量引擎",
+      "platformId": "douyin",
+      "region": "domestic",
+      "date": "2026-09-06",
+      "changeType": "product",
+      "content": "上线「即合」AI视频生成工具，支持从文本/图片一键生成15秒竖屏广告，日均生成量突破50万条。",
+      "impacts": [
+        "创意效率",
+        "降低门槛",
+        "AI生成"
+      ],
+      "source": "https://www.oceanengine.com/news"
+    },
+    {
+      "platform": "抖音/巨量引擎",
+      "platformId": "douyin",
+      "region": "domestic",
+      "date": "2026-09-03",
+      "changeType": "strategy",
+      "content": "调整竞价策略，将「浅层转化」权重降低40%，强制要求广告主设置深度转化目标，提升广告质量。",
+      "impacts": [
+        "质量提升",
+        "门槛提高",
+        "ROI优化"
+      ],
+      "source": "https://www.oceanengine.com/policy"
+    },
+    {
+      "platform": "腾讯广告",
+      "platformId": "tencent",
+      "region": "domestic",
+      "date": "2026-09-02",
+      "changeType": "data",
+      "content": "微信朋友圈广告CTR平均提升至2.8%，视频号信息流广告日均曝光量突破120亿次，成为腾讯广告增长主引擎。",
+      "impacts": [
+        "视频号增长",
+        "曝光量增加",
+        "点击率提升"
+      ],
+      "source": "https://e.qq.com/ads/news"
+    },
+    {
+      "platform": "TikTok",
+      "platformId": "tiktok",
+      "region": "overseas",
+      "date": "2026-09-01",
+      "changeType": "product",
+      "content": "推出TikTok Shop广告直购链路，用户可在不跳转的情况下完成购买，测试市场转化率提升40%。",
+      "impacts": [
+        "转化提升",
+        "电商闭环",
+        "用户体验"
+      ],
+      "source": "https://business.tiktok.com/updates"
+    },
+    {
+      "platform": "小红书/聚光",
+      "platformId": "xiaohongshu",
+      "region": "domestic",
+      "date": "2026-08-31",
+      "changeType": "strategy",
+      "content": "扩大「种草通」预算门槛至日均5000元，聚焦中大型品牌客户，清退低质量效果广告主。",
+      "impacts": [
+        "客户门槛提升",
+        "品牌化",
+        "内容质量"
+      ],
+      "source": "https://ad.xiaohongshu.com/policy"
+    },
+    {
+      "platform": "快手/磁力引擎",
+      "platformId": "kuaishou",
+      "region": "domestic",
+      "date": "2026-08-30",
+      "changeType": "financial",
+      "content": "Q2广告收入¥178亿，同比增长18%。下沉市场eCPM提升至¥35，接近行业平均水平。",
+      "impacts": [
+        "收入增长",
+        "eCPM提升",
+        "下沉市场"
+      ],
+      "source": "https://ir.kuaishou.com"
+    },
+    {
+      "platform": "B站商业化",
+      "platformId": "bilibili",
+      "region": "domestic",
+      "date": "2026-08-28",
+      "changeType": "product",
+      "content": "推出「UP主共创广告」模式，品牌方可与UP主联合定制原生广告内容，平均完播率达75%。",
+      "impacts": [
+        "内容营销",
+        "原生广告",
+        "UP主合作"
+      ],
+      "source": "https://ad.bilibili.com/news"
+    },
+    {
+      "platform": "X (Twitter)",
+      "platformId": "x",
+      "region": "overseas",
+      "date": "2026-08-26",
+      "changeType": "data",
+      "content": "广告收入连续第三个月下滑，8月广告收入$2.8亿，同比下降35%。品牌安全问题导致大量广告主暂停投放。",
+      "impacts": [
+        "收入下滑",
+        "品牌安全",
+        "客户流失"
+      ],
+      "source": "https://business.twitter.com"
+    }
+  ],
+  "reports": [
+    {
+      "organization": "QuestMobile",
+      "date": "2026-08-30",
+      "title": "2026年上半年中国移动互联网广告市场报告",
+      "summary": "上半年移动广告市场规模达¥3,850亿，同比增长15.8%。短视频平台占比首次突破50%，搜索广告份额降至18%。AI广告工具使用率达42%。",
+      "link": "https://www.questmobile.com.cn/research/report"
+    },
+    {
+      "organization": "TopOn",
+      "date": "2026-08-25",
+      "title": "全球移动应用广告变现eCPM报告（Q2 2026）",
+      "summary": "全球平均eCPM为$8.5，环比下降6%。激励视频广告eCPM最高达$12.3，插屏广告eCPM为$6.8。亚太地区eCPM增长最快，达22%。",
+      "link": "https://www.toponad.com/report"
+    },
+    {
+      "organization": "秒针营销科学院",
+      "date": "2026-08-20",
+      "title": "AI驱动的广告创意生产力研究",
+      "summary": "使用AI工具的广告主创意生产效率提升3.5倍，成本降低65%。但60%的营销人员认为AI生成内容缺乏品牌差异化。",
+      "link": "https://www.miaozhen.com/research"
+    },
+    {
+      "organization": "德勤",
+      "date": "2026-08-15",
+      "title": "2026全球数字广告趋势洞察",
+      "summary": "全球数字广告支出预计达$8,250亿，移动端占78.5%。AI广告技术投资同比增长120%，隐私计算成为新基础设施。",
+      "link": "https://www2.deloitte.com/cn/zh/pages/technology-media-and-telecommunications/articles/digital-advertising-trends.html"
+    },
+    {
+      "organization": "AppGrowing",
+      "date": "2026-08-10",
+      "title": "8月移动广告投放情报",
+      "summary": "游戏、电商、金融类广告投放量占比分别为28%、24%、15%。竖屏视频广告占比达72%，横屏广告持续萎缩。",
+      "link": "https://www.appgrowing.cn/report"
+    },
+    {
+      "organization": "SensorTower",
+      "date": "2026-08-05",
+      "title": "全球Top100应用广告变现分析",
+      "summary": "Top100应用平均广告收入占总收入43%，游戏类应用广告收入占比最高达65%。IAA+IAP混合变现成为主流。",
+      "link": "https://sensortower.com/insights"
+    }
+  ]
+}
