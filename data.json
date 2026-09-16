@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/16 00:59:25",
+  "lastUpdate": "2026/9/16 01:13:17",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8213亿",
-      "change": 11,
-      "changeText": "↑ 11.2% YoY"
+      "value": "$8266亿",
+      "change": 12.5,
+      "changeText": "↑ 12.8% YoY"
     },
     "ecpm": {
-      "value": "¥48.6",
-      "change": 1.7,
-      "changeText": "↓ 6.7% MoM"
+      "value": "¥44.4",
+      "change": 2.4,
+      "changeText": "↓ 5.8% MoM"
     },
     "aiRatio": {
-      "value": "47.3%",
-      "change": 11.8,
-      "changeText": "↑ 21.2% MoM"
+      "value": "45.0%",
+      "change": 19.9,
+      "changeText": "↑ 26.0% MoM"
     },
     "mobileRatio": {
-      "value": "77.2%",
-      "change": 2,
-      "changeText": "↑ 2.8% MoM"
+      "value": "77.6%",
+      "change": 0.5,
+      "changeText": "↑ 2.0% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "tiktok-1789521197363",
+      "platform": "TikTok",
+      "region": "overseas",
+      "date": "2026-09-16",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "低",
+      "source": "https://business.tiktok.com/updates"
+    },
     {
       "id": "x-1789520365078",
       "platform": "X (Twitter)",
