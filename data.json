@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/16 01:13:17",
+  "lastUpdate": "2026/9/17 01:09:55",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8266亿",
+      "value": "$8269亿",
       "change": 12.5,
-      "changeText": "↑ 12.8% YoY"
+      "changeText": "↑ 12.3% YoY"
     },
     "ecpm": {
-      "value": "¥44.4",
-      "change": 2.4,
-      "changeText": "↓ 5.8% MoM"
+      "value": "¥45.8",
+      "change": 1.5,
+      "changeText": "↑ 5.6% MoM"
     },
     "aiRatio": {
-      "value": "45.0%",
-      "change": 19.9,
-      "changeText": "↑ 26.0% MoM"
+      "value": "47.2%",
+      "change": 16.1,
+      "changeText": "↑ 16.6% MoM"
     },
     "mobileRatio": {
-      "value": "77.6%",
-      "change": 0.5,
-      "changeText": "↑ 2.0% MoM"
+      "value": "79.8%",
+      "change": 1.6,
+      "changeText": "↑ 1.1% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "kuaishou-1789607395512",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-09-17",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "高",
+      "source": "https://ad.kuaishou.com/news"
+    },
     {
       "id": "tiktok-1789521197363",
       "platform": "TikTok",
