@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/17 01:09:55",
+  "lastUpdate": "2026/9/18 01:09:28",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8269亿",
-      "change": 12.5,
-      "changeText": "↑ 12.3% YoY"
+      "value": "$8368亿",
+      "change": 11.7,
+      "changeText": "↑ 12.8% YoY"
     },
     "ecpm": {
-      "value": "¥45.8",
-      "change": 1.5,
-      "changeText": "↑ 5.6% MoM"
+      "value": "¥40.4",
+      "change": 3.6,
+      "changeText": "↑ 7.0% MoM"
     },
     "aiRatio": {
-      "value": "47.2%",
-      "change": 16.1,
-      "changeText": "↑ 16.6% MoM"
+      "value": "43.6%",
+      "change": 11,
+      "changeText": "↑ 12.6% MoM"
     },
     "mobileRatio": {
-      "value": "79.8%",
+      "value": "78.5%",
       "change": 1.6,
-      "changeText": "↑ 1.1% MoM"
+      "changeText": "↑ 2.3% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,39 @@
     }
   ],
   "updates": [
+    {
+      "id": "xiaohongshu-1789693768321",
+      "platform": "小红书/聚光",
+      "region": "domestic",
+      "date": "2026-09-18",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "中",
+      "source": "https://ad.xiaohongshu.com/news"
+    },
+    {
+      "id": "tencent-1789693768321",
+      "platform": "腾讯广告",
+      "region": "domestic",
+      "date": "2026-09-18",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "中",
+      "source": "https://e.qq.com/ads/news"
+    },
+    {
+      "id": "kuaishou-1789693768321",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-09-18",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "低",
+      "source": "https://ad.kuaishou.com/news"
+    },
     {
       "id": "kuaishou-1789607395512",
       "platform": "快手/磁力引擎",
