@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/18 01:09:28",
+  "lastUpdate": "2026/9/19 01:08:24",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8368亿",
-      "change": 11.7,
-      "changeText": "↑ 12.8% YoY"
+      "value": "$8370亿",
+      "change": 11.4,
+      "changeText": "↑ 11.4% YoY"
     },
     "ecpm": {
-      "value": "¥40.4",
-      "change": 3.6,
-      "changeText": "↑ 7.0% MoM"
+      "value": "¥44.1",
+      "change": -2.3,
+      "changeText": "↑ 7.1% MoM"
     },
     "aiRatio": {
-      "value": "43.6%",
-      "change": 11,
-      "changeText": "↑ 12.6% MoM"
+      "value": "43.4%",
+      "change": 23.5,
+      "changeText": "↑ 12.1% MoM"
     },
     "mobileRatio": {
-      "value": "78.5%",
-      "change": 1.6,
-      "changeText": "↑ 2.3% MoM"
+      "value": "77.3%",
+      "change": 0.6,
+      "changeText": "↑ 2.5% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "google-1789780104412",
+      "platform": "Google Ads",
+      "region": "overseas",
+      "date": "2026-09-19",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "中",
+      "source": "https://ads.google.com/updates"
+    },
     {
       "id": "xiaohongshu-1789693768321",
       "platform": "小红书/聚光",
