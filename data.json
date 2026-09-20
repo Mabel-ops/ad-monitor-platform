@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/19 01:08:24",
+  "lastUpdate": "2026/9/20 01:08:40",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8370亿",
-      "change": 11.4,
-      "changeText": "↑ 11.4% YoY"
+      "value": "$8476亿",
+      "change": 12.4,
+      "changeText": "↑ 11.9% YoY"
     },
     "ecpm": {
-      "value": "¥44.1",
-      "change": -2.3,
-      "changeText": "↑ 7.1% MoM"
+      "value": "¥45.9",
+      "change": -1.7,
+      "changeText": "↑ 3.8% MoM"
     },
     "aiRatio": {
-      "value": "43.4%",
-      "change": 23.5,
-      "changeText": "↑ 12.1% MoM"
+      "value": "44.5%",
+      "change": 21.3,
+      "changeText": "↑ 29.3% MoM"
     },
     "mobileRatio": {
-      "value": "77.3%",
-      "change": 0.6,
-      "changeText": "↑ 2.5% MoM"
+      "value": "76.2%",
+      "change": 0.5,
+      "changeText": "↑ 2.0% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "bilibili-1789866520671",
+      "platform": "B站商业化",
+      "region": "domestic",
+      "date": "2026-09-20",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://ad.bilibili.com/news"
+    },
     {
       "id": "google-1789780104412",
       "platform": "Google Ads",
