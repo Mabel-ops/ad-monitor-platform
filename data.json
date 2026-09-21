@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/20 01:08:40",
+  "lastUpdate": "2026/9/21 01:09:31",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8476亿",
-      "change": 12.4,
-      "changeText": "↑ 11.9% YoY"
+      "value": "$8556亿",
+      "change": 11.4,
+      "changeText": "↑ 11.1% YoY"
     },
     "ecpm": {
-      "value": "¥45.9",
-      "change": -1.7,
-      "changeText": "↑ 3.8% MoM"
+      "value": "¥48.4",
+      "change": 0.3,
+      "changeText": "↑ 4.4% MoM"
     },
     "aiRatio": {
-      "value": "44.5%",
-      "change": 21.3,
-      "changeText": "↑ 29.3% MoM"
+      "value": "46.3%",
+      "change": 11,
+      "changeText": "↑ 22.3% MoM"
     },
     "mobileRatio": {
-      "value": "76.2%",
-      "change": 0.5,
-      "changeText": "↑ 2.0% MoM"
+      "value": "79.6%",
+      "change": 0.4,
+      "changeText": "↑ 2.7% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "x-1789952971644",
+      "platform": "X (Twitter)",
+      "region": "overseas",
+      "date": "2026-09-21",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://business.twitter.com"
+    },
     {
       "id": "bilibili-1789866520671",
       "platform": "B站商业化",
