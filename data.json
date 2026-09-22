@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/21 01:09:31",
+  "lastUpdate": "2026/9/22 01:08:12",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8556亿",
-      "change": 11.4,
-      "changeText": "↑ 11.1% YoY"
+      "value": "$8635亿",
+      "change": 11.9,
+      "changeText": "↑ 11.8% YoY"
     },
     "ecpm": {
-      "value": "¥48.4",
-      "change": 0.3,
-      "changeText": "↑ 4.4% MoM"
+      "value": "¥40.4",
+      "change": -3.6,
+      "changeText": "↓ 6.1% MoM"
     },
     "aiRatio": {
-      "value": "46.3%",
-      "change": 11,
-      "changeText": "↑ 22.3% MoM"
+      "value": "44.5%",
+      "change": 10.3,
+      "changeText": "↑ 16.0% MoM"
     },
     "mobileRatio": {
-      "value": "79.6%",
-      "change": 0.4,
-      "changeText": "↑ 2.7% MoM"
+      "value": "78.9%",
+      "change": 2.3,
+      "changeText": "↑ 2.8% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "douyin-1790039292040",
+      "platform": "抖音/巨量引擎",
+      "region": "domestic",
+      "date": "2026-09-22",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "低",
+      "source": "https://www.oceanengine.com/news"
+    },
     {
       "id": "x-1789952971644",
       "platform": "X (Twitter)",
