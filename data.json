@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/22 01:08:12",
+  "lastUpdate": "2026/9/23 01:09:27",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8635亿",
-      "change": 11.9,
-      "changeText": "↑ 11.8% YoY"
+      "value": "$8632亿",
+      "change": 11.1,
+      "changeText": "↑ 11.3% YoY"
     },
     "ecpm": {
-      "value": "¥40.4",
-      "change": -3.6,
-      "changeText": "↓ 6.1% MoM"
+      "value": "¥44.3",
+      "change": -1.8,
+      "changeText": "↑ 2.9% MoM"
     },
     "aiRatio": {
-      "value": "44.5%",
-      "change": 10.3,
-      "changeText": "↑ 16.0% MoM"
+      "value": "45.2%",
+      "change": 24.7,
+      "changeText": "↑ 11.6% MoM"
     },
     "mobileRatio": {
-      "value": "78.9%",
-      "change": 2.3,
-      "changeText": "↑ 2.8% MoM"
+      "value": "77.2%",
+      "change": 2.7,
+      "changeText": "↑ 1.7% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "google-1790125767107",
+      "platform": "Google Ads",
+      "region": "overseas",
+      "date": "2026-09-23",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://ads.google.com/updates"
+    },
+    {
+      "id": "x-1790125767107",
+      "platform": "X (Twitter)",
+      "region": "overseas",
+      "date": "2026-09-23",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://business.twitter.com"
+    },
     {
       "id": "douyin-1790039292040",
       "platform": "抖音/巨量引擎",
