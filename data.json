@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/24 01:09:17",
+  "lastUpdate": "2026/9/25 01:09:13",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8679亿",
-      "change": 11.2,
-      "changeText": "↑ 12.4% YoY"
+      "value": "$8683亿",
+      "change": 11.6,
+      "changeText": "↑ 11.4% YoY"
     },
     "ecpm": {
-      "value": "¥44.6",
-      "change": -0.3,
-      "changeText": "↓ 5.5% MoM"
+      "value": "¥49.7",
+      "change": 3.2,
+      "changeText": "↑ 0.4% MoM"
     },
     "aiRatio": {
-      "value": "44.8%",
-      "change": 19.7,
-      "changeText": "↑ 17.3% MoM"
+      "value": "45.0%",
+      "change": 11.3,
+      "changeText": "↑ 15.7% MoM"
     },
     "mobileRatio": {
-      "value": "77.8%",
-      "change": 2.4,
-      "changeText": "↑ 2.8% MoM"
+      "value": "78.0%",
+      "change": 2.7,
+      "changeText": "↑ 0.9% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,39 @@
     }
   ],
   "updates": [
+    {
+      "id": "kuaishou-1790298553520",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-09-25",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "中",
+      "source": "https://ad.kuaishou.com/news"
+    },
+    {
+      "id": "douyin-1790298553520",
+      "platform": "抖音/巨量引擎",
+      "region": "domestic",
+      "date": "2026-09-25",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "中",
+      "source": "https://www.oceanengine.com/news"
+    },
+    {
+      "id": "tencent-1790298553520",
+      "platform": "腾讯广告",
+      "region": "domestic",
+      "date": "2026-09-25",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "低",
+      "source": "https://e.qq.com/ads/news"
+    },
     {
       "id": "tiktok-1790212157717",
       "platform": "TikTok",
