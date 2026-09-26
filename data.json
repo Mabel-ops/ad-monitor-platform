@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/25 01:09:13",
+  "lastUpdate": "2026/9/26 01:08:22",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8683亿",
-      "change": 11.6,
-      "changeText": "↑ 11.4% YoY"
+      "value": "$8709亿",
+      "change": 12.8,
+      "changeText": "↑ 11.7% YoY"
     },
     "ecpm": {
-      "value": "¥49.7",
-      "change": 3.2,
-      "changeText": "↑ 0.4% MoM"
+      "value": "¥46.9",
+      "change": 2.9,
+      "changeText": "↑ 0.7% MoM"
     },
     "aiRatio": {
-      "value": "45.0%",
-      "change": 11.3,
-      "changeText": "↑ 15.7% MoM"
+      "value": "44.6%",
+      "change": 28.2,
+      "changeText": "↑ 24.6% MoM"
     },
     "mobileRatio": {
-      "value": "78.0%",
-      "change": 2.7,
-      "changeText": "↑ 0.9% MoM"
+      "value": "77.0%",
+      "change": 0.5,
+      "changeText": "↑ 2.4% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "bilibili-1790384902303",
+      "platform": "B站商业化",
+      "region": "domestic",
+      "date": "2026-09-26",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "高",
+      "source": "https://ad.bilibili.com/news"
+    },
+    {
+      "id": "meta-1790384902303",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-09-26",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "中",
+      "source": "https://www.facebook.com/business/news"
+    },
     {
       "id": "kuaishou-1790298553520",
       "platform": "快手/磁力引擎",
