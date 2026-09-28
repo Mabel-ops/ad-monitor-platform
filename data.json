@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/27 01:09:28",
+  "lastUpdate": "2026/9/28 01:09:45",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8822亿",
-      "change": 12.1,
-      "changeText": "↑ 12.9% YoY"
+      "value": "$8834亿",
+      "change": 11.3,
+      "changeText": "↑ 12.3% YoY"
     },
     "ecpm": {
-      "value": "¥43.3",
-      "change": -3.6,
-      "changeText": "↓ 6.6% MoM"
+      "value": "¥49.1",
+      "change": -0.3,
+      "changeText": "↓ 0.8% MoM"
     },
     "aiRatio": {
-      "value": "43.3%",
-      "change": 29.9,
-      "changeText": "↑ 16.0% MoM"
+      "value": "46.5%",
+      "change": 10.8,
+      "changeText": "↑ 19.3% MoM"
     },
     "mobileRatio": {
-      "value": "77.6%",
-      "change": 1.9,
-      "changeText": "↑ 1.7% MoM"
+      "value": "76.6%",
+      "change": 2.7,
+      "changeText": "↑ 3.0% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "tencent-1790557785708",
+      "platform": "腾讯广告",
+      "region": "domestic",
+      "date": "2026-09-28",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://e.qq.com/ads/news"
+    },
     {
       "id": "google-1790471368436",
       "platform": "Google Ads",
