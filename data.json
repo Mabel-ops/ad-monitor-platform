@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/29 01:10:38",
+  "lastUpdate": "2026/9/30 01:10:55",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8827亿",
-      "change": 12.5,
-      "changeText": "↑ 12.4% YoY"
+      "value": "$8839亿",
+      "change": 12.1,
+      "changeText": "↑ 11.3% YoY"
     },
     "ecpm": {
-      "value": "¥41.3",
-      "change": 3.3,
-      "changeText": "↓ 0.9% MoM"
+      "value": "¥49.6",
+      "change": -0.8,
+      "changeText": "↑ 5.0% MoM"
     },
     "aiRatio": {
-      "value": "45.8%",
-      "change": 10.1,
-      "changeText": "↑ 20.9% MoM"
+      "value": "46.0%",
+      "change": 29.2,
+      "changeText": "↑ 27.2% MoM"
     },
     "mobileRatio": {
-      "value": "77.3%",
-      "change": 2.8,
-      "changeText": "↑ 0.4% MoM"
+      "value": "77.0%",
+      "change": 1.9,
+      "changeText": "↑ 2.8% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "bilibili-1790730655807",
+      "platform": "B站商业化",
+      "region": "domestic",
+      "date": "2026-09-30",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "中",
+      "source": "https://ad.bilibili.com/news"
+    },
+    {
+      "id": "kuaishou-1790730655807",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-09-30",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://ad.kuaishou.com/news"
+    },
     {
       "id": "tiktok-1790644238290",
       "platform": "TikTok",
