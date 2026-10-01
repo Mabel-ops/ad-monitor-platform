@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/9/30 01:10:55",
+  "lastUpdate": "2026/10/1 01:11:43",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8839亿",
-      "change": 12.1,
-      "changeText": "↑ 11.3% YoY"
+      "value": "$8917亿",
+      "change": 11.7,
+      "changeText": "↑ 11.8% YoY"
     },
     "ecpm": {
-      "value": "¥49.6",
-      "change": -0.8,
-      "changeText": "↑ 5.0% MoM"
+      "value": "¥43.4",
+      "change": 3.2,
+      "changeText": "↓ 6.6% MoM"
     },
     "aiRatio": {
-      "value": "46.0%",
-      "change": 29.2,
-      "changeText": "↑ 27.2% MoM"
+      "value": "43.3%",
+      "change": 13,
+      "changeText": "↑ 17.3% MoM"
     },
     "mobileRatio": {
-      "value": "77.0%",
-      "change": 1.9,
-      "changeText": "↑ 2.8% MoM"
+      "value": "76.1%",
+      "change": 0.5,
+      "changeText": "↑ 0.7% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "douyin-1790817103970",
+      "platform": "抖音/巨量引擎",
+      "region": "domestic",
+      "date": "2026-10-01",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://www.oceanengine.com/news"
+    },
+    {
+      "id": "tencent-1790817103970",
+      "platform": "腾讯广告",
+      "region": "domestic",
+      "date": "2026-10-01",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "中",
+      "source": "https://e.qq.com/ads/news"
+    },
     {
       "id": "bilibili-1790730655807",
       "platform": "B站商业化",
