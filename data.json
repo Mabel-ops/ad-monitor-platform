@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/1 01:11:43",
+  "lastUpdate": "2026/10/2 01:10:45",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$8917亿",
+      "value": "$9021亿",
       "change": 11.7,
-      "changeText": "↑ 11.8% YoY"
+      "changeText": "↑ 11.3% YoY"
     },
     "ecpm": {
-      "value": "¥43.4",
-      "change": 3.2,
-      "changeText": "↓ 6.6% MoM"
+      "value": "¥42.0",
+      "change": 0.1,
+      "changeText": "↑ 0.9% MoM"
     },
     "aiRatio": {
-      "value": "43.3%",
-      "change": 13,
-      "changeText": "↑ 17.3% MoM"
+      "value": "45.1%",
+      "change": 26.6,
+      "changeText": "↑ 27.4% MoM"
     },
     "mobileRatio": {
-      "value": "76.1%",
-      "change": 0.5,
-      "changeText": "↑ 0.7% MoM"
+      "value": "79.9%",
+      "change": 2.3,
+      "changeText": "↑ 2.6% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "tencent-1790903445054",
+      "platform": "腾讯广告",
+      "region": "domestic",
+      "date": "2026-10-02",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://e.qq.com/ads/news"
+    },
+    {
+      "id": "x-1790903445054",
+      "platform": "X (Twitter)",
+      "region": "overseas",
+      "date": "2026-10-02",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://business.twitter.com"
+    },
     {
       "id": "douyin-1790817103970",
       "platform": "抖音/巨量引擎",
