@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/2 01:10:45",
+  "lastUpdate": "2026/10/3 01:10:00",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$9021亿",
-      "change": 11.7,
+      "value": "$9156亿",
+      "change": 12.2,
       "changeText": "↑ 11.3% YoY"
     },
     "ecpm": {
-      "value": "¥42.0",
-      "change": 0.1,
-      "changeText": "↑ 0.9% MoM"
+      "value": "¥44.4",
+      "change": 3.8,
+      "changeText": "↑ 3.1% MoM"
     },
     "aiRatio": {
-      "value": "45.1%",
-      "change": 26.6,
-      "changeText": "↑ 27.4% MoM"
+      "value": "43.5%",
+      "change": 17.2,
+      "changeText": "↑ 26.9% MoM"
     },
     "mobileRatio": {
-      "value": "79.9%",
-      "change": 2.3,
-      "changeText": "↑ 2.6% MoM"
+      "value": "79.4%",
+      "change": 1.3,
+      "changeText": "↑ 1.6% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,39 @@
     }
   ],
   "updates": [
+    {
+      "id": "kuaishou-1790989800367",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-10-03",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "低",
+      "source": "https://ad.kuaishou.com/news"
+    },
+    {
+      "id": "kuaishou-1790989800367",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-10-03",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "低",
+      "source": "https://ad.kuaishou.com/news"
+    },
+    {
+      "id": "douyin-1790989800367",
+      "platform": "抖音/巨量引擎",
+      "region": "domestic",
+      "date": "2026-10-03",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://www.oceanengine.com/news"
+    },
     {
       "id": "tencent-1790903445054",
       "platform": "腾讯广告",
