@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/6 01:10:54",
+  "lastUpdate": "2026/10/7 01:12:29",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$9326亿",
-      "change": 11.1,
-      "changeText": "↑ 12.5% YoY"
+      "value": "$9318亿",
+      "change": 12.3,
+      "changeText": "↑ 11.8% YoY"
     },
     "ecpm": {
-      "value": "¥41.2",
-      "change": 2.3,
-      "changeText": "↓ 0.8% MoM"
+      "value": "¥41.7",
+      "change": -2.1,
+      "changeText": "↑ 5.6% MoM"
     },
     "aiRatio": {
-      "value": "43.6%",
-      "change": 18.6,
-      "changeText": "↑ 11.6% MoM"
+      "value": "43.5%",
+      "change": 25.5,
+      "changeText": "↑ 15.1% MoM"
     },
     "mobileRatio": {
-      "value": "76.8%",
-      "change": 0.5,
-      "changeText": "↑ 0.2% MoM"
+      "value": "79.6%",
+      "change": 0.1,
+      "changeText": "↑ 1.7% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "xiaohongshu-1791335549168",
+      "platform": "小红书/聚光",
+      "region": "domestic",
+      "date": "2026-10-07",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "低",
+      "source": "https://ad.xiaohongshu.com/news"
+    },
+    {
+      "id": "meta-1791335549168",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-10-07",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "中",
+      "source": "https://www.facebook.com/business/news"
+    },
     {
       "id": "tencent-1791249054262",
       "platform": "腾讯广告",
