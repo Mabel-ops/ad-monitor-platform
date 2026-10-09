@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/8 01:12:44",
+  "lastUpdate": "2026/10/9 01:14:40",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$9455亿",
-      "change": 12.5,
-      "changeText": "↑ 11.0% YoY"
+      "value": "$9453亿",
+      "change": 12.1,
+      "changeText": "↑ 11.1% YoY"
     },
     "ecpm": {
-      "value": "¥46.4",
-      "change": 0.5,
-      "changeText": "↑ 5.2% MoM"
+      "value": "¥46.7",
+      "change": 0.2,
+      "changeText": "↓ 0.2% MoM"
     },
     "aiRatio": {
-      "value": "46.1%",
-      "change": 25.8,
-      "changeText": "↑ 23.3% MoM"
+      "value": "47.6%",
+      "change": 23.8,
+      "changeText": "↑ 11.6% MoM"
     },
     "mobileRatio": {
-      "value": "77.0%",
-      "change": 0.9,
-      "changeText": "↑ 2.0% MoM"
+      "value": "79.3%",
+      "change": 2.2,
+      "changeText": "↑ 2.4% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "google-1791508480760",
+      "platform": "Google Ads",
+      "region": "overseas",
+      "date": "2026-10-09",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "高",
+      "source": "https://ads.google.com/updates"
+    },
+    {
+      "id": "tiktok-1791508480760",
+      "platform": "TikTok",
+      "region": "overseas",
+      "date": "2026-10-09",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://business.tiktok.com/updates"
+    },
     {
       "id": "xiaohongshu-1791421964587",
       "platform": "小红书/聚光",
