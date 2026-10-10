@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/9 01:14:40",
+  "lastUpdate": "2026/10/10 06:41:10",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$9453亿",
-      "change": 12.1,
-      "changeText": "↑ 11.1% YoY"
+      "value": "$9430亿",
+      "change": 11.1,
+      "changeText": "↑ 11.2% YoY"
     },
     "ecpm": {
-      "value": "¥46.7",
-      "change": 0.2,
-      "changeText": "↓ 0.2% MoM"
+      "value": "¥42.6",
+      "change": -2.6,
+      "changeText": "↓ 4.2% MoM"
     },
     "aiRatio": {
-      "value": "47.6%",
-      "change": 23.8,
-      "changeText": "↑ 11.6% MoM"
+      "value": "45.1%",
+      "change": 28.9,
+      "changeText": "↑ 22.0% MoM"
     },
     "mobileRatio": {
-      "value": "79.3%",
-      "change": 2.2,
-      "changeText": "↑ 2.4% MoM"
+      "value": "78.9%",
+      "change": 0.4,
+      "changeText": "↑ 1.1% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,39 @@
     }
   ],
   "updates": [
+    {
+      "id": "bilibili-1791614470678",
+      "platform": "B站商业化",
+      "region": "domestic",
+      "date": "2026-10-10",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "高",
+      "source": "https://ad.bilibili.com/news"
+    },
+    {
+      "id": "meta-1791614470678",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-10-10",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "高",
+      "source": "https://www.facebook.com/business/news"
+    },
+    {
+      "id": "douyin-1791614470678",
+      "platform": "抖音/巨量引擎",
+      "region": "domestic",
+      "date": "2026-10-10",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "低",
+      "source": "https://www.oceanengine.com/news"
+    },
     {
       "id": "google-1791508480760",
       "platform": "Google Ads",
