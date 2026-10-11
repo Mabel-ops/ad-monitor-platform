@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/10 06:41:10",
+  "lastUpdate": "2026/10/11 06:48:08",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$9430亿",
-      "change": 11.1,
-      "changeText": "↑ 11.2% YoY"
+      "value": "$9463亿",
+      "change": 12.7,
+      "changeText": "↑ 11.1% YoY"
     },
     "ecpm": {
-      "value": "¥42.6",
-      "change": -2.6,
-      "changeText": "↓ 4.2% MoM"
+      "value": "¥41.3",
+      "change": 1,
+      "changeText": "↑ 3.1% MoM"
     },
     "aiRatio": {
-      "value": "45.1%",
-      "change": 28.9,
-      "changeText": "↑ 22.0% MoM"
+      "value": "44.0%",
+      "change": 28.8,
+      "changeText": "↑ 12.3% MoM"
     },
     "mobileRatio": {
-      "value": "78.9%",
-      "change": 0.4,
-      "changeText": "↑ 1.1% MoM"
+      "value": "79.8%",
+      "change": 2.8,
+      "changeText": "↑ 0.8% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "xiaohongshu-1791701288396",
+      "platform": "小红书/聚光",
+      "region": "domestic",
+      "date": "2026-10-11",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "高",
+      "source": "https://ad.xiaohongshu.com/news"
+    },
     {
       "id": "bilibili-1791614470678",
       "platform": "B站商业化",
