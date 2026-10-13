@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/12 06:58:12",
+  "lastUpdate": "2026/10/13 07:21:02",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$9557亿",
-      "change": 12.5,
+      "value": "$9573亿",
+      "change": 11.1,
       "changeText": "↑ 13.0% YoY"
     },
     "ecpm": {
-      "value": "¥42.0",
-      "change": 2,
-      "changeText": "↑ 7.4% MoM"
+      "value": "¥47.0",
+      "change": -3.5,
+      "changeText": "↑ 7.2% MoM"
     },
     "aiRatio": {
-      "value": "47.7%",
-      "change": 17.1,
-      "changeText": "↑ 24.2% MoM"
+      "value": "43.3%",
+      "change": 29.4,
+      "changeText": "↑ 14.9% MoM"
     },
     "mobileRatio": {
-      "value": "79.8%",
-      "change": 1.8,
-      "changeText": "↑ 2.3% MoM"
+      "value": "78.3%",
+      "change": 0.7,
+      "changeText": "↑ 1.1% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "douyin-1791876062755",
+      "platform": "抖音/巨量引擎",
+      "region": "domestic",
+      "date": "2026-10-13",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "中",
+      "source": "https://www.oceanengine.com/news"
+    },
     {
       "id": "kuaishou-1791788292105",
       "platform": "快手/磁力引擎",
