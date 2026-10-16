@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/15 05:33:46",
+  "lastUpdate": "2026/10/16 05:26:44",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$9789亿",
-      "change": 11.1,
-      "changeText": "↑ 12.7% YoY"
+      "value": "$9900亿",
+      "change": 11.3,
+      "changeText": "↑ 11.5% YoY"
     },
     "ecpm": {
-      "value": "¥49.1",
-      "change": 2.1,
-      "changeText": "↑ 6.7% MoM"
+      "value": "¥42.4",
+      "change": 0.4,
+      "changeText": "↑ 3.2% MoM"
     },
     "aiRatio": {
-      "value": "47.1%",
-      "change": 10.2,
-      "changeText": "↑ 20.5% MoM"
+      "value": "43.8%",
+      "change": 27.1,
+      "changeText": "↑ 29.5% MoM"
     },
     "mobileRatio": {
-      "value": "79.2%",
-      "change": 2.8,
-      "changeText": "↑ 0.8% MoM"
+      "value": "78.0%",
+      "change": 1,
+      "changeText": "↑ 2.8% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "meta-1792128404152",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-10-16",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "中",
+      "source": "https://www.facebook.com/business/news"
+    },
+    {
+      "id": "meta-1792128404152",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-10-16",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://www.facebook.com/business/news"
+    },
     {
       "id": "douyin-1792042426859",
       "platform": "抖音/巨量引擎",
