@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/17 05:19:09",
+  "lastUpdate": "2026/10/18 05:25:56",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$9946亿",
-      "change": 12.2,
-      "changeText": "↑ 13.0% YoY"
+      "value": "$9999亿",
+      "change": 12.5,
+      "changeText": "↑ 11.1% YoY"
     },
     "ecpm": {
-      "value": "¥40.5",
-      "change": 0.4,
-      "changeText": "↑ 4.6% MoM"
+      "value": "¥44.7",
+      "change": -3.6,
+      "changeText": "↓ 7.0% MoM"
     },
     "aiRatio": {
-      "value": "46.8%",
-      "change": 21,
-      "changeText": "↑ 27.9% MoM"
+      "value": "43.6%",
+      "change": 23.7,
+      "changeText": "↑ 24.5% MoM"
     },
     "mobileRatio": {
-      "value": "78.7%",
-      "change": 2.3,
-      "changeText": "↑ 1.9% MoM"
+      "value": "78.3%",
+      "change": 2.9,
+      "changeText": "↑ 1.1% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "meta-1792301156657",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-10-18",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://www.facebook.com/business/news"
+    },
     {
       "id": "meta-1792214349871",
       "platform": "Meta",
