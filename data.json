@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/22 05:45:07",
+  "lastUpdate": "2026/10/23 05:43:57",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10338亿",
-      "change": 12.2,
-      "changeText": "↑ 11.9% YoY"
+      "value": "$10366亿",
+      "change": 11.6,
+      "changeText": "↑ 11.5% YoY"
     },
     "ecpm": {
-      "value": "¥49.7",
-      "change": 0.1,
-      "changeText": "↓ 2.4% MoM"
+      "value": "¥47.0",
+      "change": -1.9,
+      "changeText": "↓ 1.9% MoM"
     },
     "aiRatio": {
-      "value": "45.2%",
-      "change": 11.2,
-      "changeText": "↑ 14.7% MoM"
+      "value": "43.4%",
+      "change": 25.6,
+      "changeText": "↑ 12.5% MoM"
     },
     "mobileRatio": {
-      "value": "77.6%",
-      "change": 0.6,
-      "changeText": "↑ 1.9% MoM"
+      "value": "78.8%",
+      "change": 1,
+      "changeText": "↑ 1.4% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,39 @@
     }
   ],
   "updates": [
+    {
+      "id": "tencent-1792734237442",
+      "platform": "腾讯广告",
+      "region": "domestic",
+      "date": "2026-10-23",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "中",
+      "source": "https://e.qq.com/ads/news"
+    },
+    {
+      "id": "kuaishou-1792734237442",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-10-23",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "中",
+      "source": "https://ad.kuaishou.com/news"
+    },
+    {
+      "id": "douyin-1792734237441",
+      "platform": "抖音/巨量引擎",
+      "region": "domestic",
+      "date": "2026-10-23",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "低",
+      "source": "https://www.oceanengine.com/news"
+    },
     {
       "id": "xiaohongshu-1792647907605",
       "platform": "小红书/聚光",
