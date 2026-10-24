@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/23 05:43:57",
+  "lastUpdate": "2026/10/24 05:23:01",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10366亿",
-      "change": 11.6,
-      "changeText": "↑ 11.5% YoY"
+      "value": "$10340亿",
+      "change": 12.3,
+      "changeText": "↑ 11.1% YoY"
     },
     "ecpm": {
-      "value": "¥47.0",
-      "change": -1.9,
-      "changeText": "↓ 1.9% MoM"
+      "value": "¥48.1",
+      "change": 2.2,
+      "changeText": "↑ 4.9% MoM"
     },
     "aiRatio": {
-      "value": "43.4%",
-      "change": 25.6,
-      "changeText": "↑ 12.5% MoM"
+      "value": "45.0%",
+      "change": 16.1,
+      "changeText": "↑ 14.5% MoM"
     },
     "mobileRatio": {
-      "value": "78.8%",
-      "change": 1,
-      "changeText": "↑ 1.4% MoM"
+      "value": "77.4%",
+      "change": 1.4,
+      "changeText": "↑ 0.6% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "x-1792819381709",
+      "platform": "X (Twitter)",
+      "region": "overseas",
+      "date": "2026-10-24",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "高",
+      "source": "https://business.twitter.com"
+    },
+    {
+      "id": "xiaohongshu-1792819381709",
+      "platform": "小红书/聚光",
+      "region": "domestic",
+      "date": "2026-10-24",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://ad.xiaohongshu.com/news"
+    },
     {
       "id": "tencent-1792734237442",
       "platform": "腾讯广告",
