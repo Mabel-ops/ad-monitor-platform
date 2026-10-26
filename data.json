@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/25 05:41:00",
+  "lastUpdate": "2026/10/26 05:45:54",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10448亿",
-      "change": 11.6,
-      "changeText": "↑ 11.0% YoY"
+      "value": "$10538亿",
+      "change": 12.1,
+      "changeText": "↑ 12.7% YoY"
     },
     "ecpm": {
-      "value": "¥42.4",
-      "change": 1.3,
-      "changeText": "↑ 5.0% MoM"
+      "value": "¥48.0",
+      "change": 2.7,
+      "changeText": "↑ 1.0% MoM"
     },
     "aiRatio": {
-      "value": "45.6%",
-      "change": 17.8,
-      "changeText": "↑ 28.9% MoM"
+      "value": "45.8%",
+      "change": 29,
+      "changeText": "↑ 27.9% MoM"
     },
     "mobileRatio": {
-      "value": "76.0%",
-      "change": 0.2,
-      "changeText": "↑ 2.2% MoM"
+      "value": "77.5%",
+      "change": 1.9,
+      "changeText": "↑ 2.1% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,39 @@
     }
   ],
   "updates": [
+    {
+      "id": "meta-1792993554975",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-10-26",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "高",
+      "source": "https://www.facebook.com/business/news"
+    },
+    {
+      "id": "x-1792993554975",
+      "platform": "X (Twitter)",
+      "region": "overseas",
+      "date": "2026-10-26",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "低",
+      "source": "https://business.twitter.com"
+    },
+    {
+      "id": "bilibili-1792993554975",
+      "platform": "B站商业化",
+      "region": "domestic",
+      "date": "2026-10-26",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "高",
+      "source": "https://ad.bilibili.com/news"
+    },
     {
       "id": "xiaohongshu-1792906860578",
       "platform": "小红书/聚光",
