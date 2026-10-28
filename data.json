@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/27 05:58:35",
+  "lastUpdate": "2026/10/28 06:37:25",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10506亿",
-      "change": 11.7,
-      "changeText": "↑ 12.8% YoY"
+      "value": "$10495亿",
+      "change": 12.7,
+      "changeText": "↑ 12.3% YoY"
     },
     "ecpm": {
-      "value": "¥47.8",
-      "change": 0.6,
-      "changeText": "↓ 7.3% MoM"
+      "value": "¥46.4",
+      "change": 3.5,
+      "changeText": "↓ 5.5% MoM"
     },
     "aiRatio": {
-      "value": "47.2%",
-      "change": 29.9,
-      "changeText": "↑ 10.1% MoM"
+      "value": "44.0%",
+      "change": 22.8,
+      "changeText": "↑ 28.2% MoM"
     },
     "mobileRatio": {
-      "value": "77.4%",
-      "change": 2.2,
-      "changeText": "↑ 1.0% MoM"
+      "value": "77.6%",
+      "change": 0.1,
+      "changeText": "↑ 0.2% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,39 @@
     }
   ],
   "updates": [
+    {
+      "id": "meta-1793169445554",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-10-28",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "高",
+      "source": "https://www.facebook.com/business/news"
+    },
+    {
+      "id": "meta-1793169445554",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-10-28",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "低",
+      "source": "https://www.facebook.com/business/news"
+    },
+    {
+      "id": "xiaohongshu-1793169445554",
+      "platform": "小红书/聚光",
+      "region": "domestic",
+      "date": "2026-10-28",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://ad.xiaohongshu.com/news"
+    },
     {
       "id": "kuaishou-1793080715086",
       "platform": "快手/磁力引擎",
@@ -1200,20 +1233,6 @@
         "UP主合作"
       ],
       "source": "https://ad.bilibili.com/news"
-    },
-    {
-      "platform": "X (Twitter)",
-      "platformId": "x",
-      "region": "overseas",
-      "date": "2026-08-26",
-      "changeType": "data",
-      "content": "广告收入连续第三个月下滑，8月广告收入$2.8亿，同比下降35%。品牌安全问题导致大量广告主暂停投放。",
-      "impacts": [
-        "收入下滑",
-        "品牌安全",
-        "客户流失"
-      ],
-      "source": "https://business.twitter.com"
     }
   ],
   "reports": [
