@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/28 06:37:25",
+  "lastUpdate": "2026/10/29 06:45:00",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10495亿",
-      "change": 12.7,
-      "changeText": "↑ 12.3% YoY"
+      "value": "$10490亿",
+      "change": 11.4,
+      "changeText": "↑ 11.5% YoY"
     },
     "ecpm": {
-      "value": "¥46.4",
-      "change": 3.5,
-      "changeText": "↓ 5.5% MoM"
+      "value": "¥41.1",
+      "change": 2.4,
+      "changeText": "↓ 2.0% MoM"
     },
     "aiRatio": {
-      "value": "44.0%",
-      "change": 22.8,
-      "changeText": "↑ 28.2% MoM"
+      "value": "45.9%",
+      "change": 25.1,
+      "changeText": "↑ 27.5% MoM"
     },
     "mobileRatio": {
-      "value": "77.6%",
-      "change": 0.1,
-      "changeText": "↑ 0.2% MoM"
+      "value": "76.8%",
+      "change": 2.9,
+      "changeText": "↑ 2.9% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "google-1793256300922",
+      "platform": "Google Ads",
+      "region": "overseas",
+      "date": "2026-10-29",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "中",
+      "source": "https://ads.google.com/updates"
+    },
+    {
+      "id": "xiaohongshu-1793256300922",
+      "platform": "小红书/聚光",
+      "region": "domestic",
+      "date": "2026-10-29",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://ad.xiaohongshu.com/news"
+    },
     {
       "id": "meta-1793169445554",
       "platform": "Meta",
@@ -1205,34 +1227,6 @@
         "内容质量"
       ],
       "source": "https://ad.xiaohongshu.com/policy"
-    },
-    {
-      "platform": "快手/磁力引擎",
-      "platformId": "kuaishou",
-      "region": "domestic",
-      "date": "2026-08-30",
-      "changeType": "financial",
-      "content": "Q2广告收入¥178亿，同比增长18%。下沉市场eCPM提升至¥35，接近行业平均水平。",
-      "impacts": [
-        "收入增长",
-        "eCPM提升",
-        "下沉市场"
-      ],
-      "source": "https://ir.kuaishou.com"
-    },
-    {
-      "platform": "B站商业化",
-      "platformId": "bilibili",
-      "region": "domestic",
-      "date": "2026-08-28",
-      "changeType": "product",
-      "content": "推出「UP主共创广告」模式，品牌方可与UP主联合定制原生广告内容，平均完播率达75%。",
-      "impacts": [
-        "内容营销",
-        "原生广告",
-        "UP主合作"
-      ],
-      "source": "https://ad.bilibili.com/news"
     }
   ],
   "reports": [
