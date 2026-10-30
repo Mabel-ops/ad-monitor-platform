@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/29 06:45:00",
+  "lastUpdate": "2026/10/30 06:48:16",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10490亿",
-      "change": 11.4,
-      "changeText": "↑ 11.5% YoY"
+      "value": "$10513亿",
+      "change": 12.5,
+      "changeText": "↑ 12.0% YoY"
     },
     "ecpm": {
-      "value": "¥41.1",
-      "change": 2.4,
-      "changeText": "↓ 2.0% MoM"
+      "value": "¥48.7",
+      "change": -0.7,
+      "changeText": "↓ 0.2% MoM"
     },
     "aiRatio": {
-      "value": "45.9%",
-      "change": 25.1,
-      "changeText": "↑ 27.5% MoM"
+      "value": "45.5%",
+      "change": 26.8,
+      "changeText": "↑ 27.1% MoM"
     },
     "mobileRatio": {
-      "value": "76.8%",
-      "change": 2.9,
-      "changeText": "↑ 2.9% MoM"
+      "value": "76.5%",
+      "change": 2.5,
+      "changeText": "↑ 0.1% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "google-1793342896248",
+      "platform": "Google Ads",
+      "region": "overseas",
+      "date": "2026-10-30",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "低",
+      "source": "https://ads.google.com/updates"
+    },
     {
       "id": "google-1793256300922",
       "platform": "Google Ads",
@@ -1213,20 +1224,6 @@
         "用户体验"
       ],
       "source": "https://business.tiktok.com/updates"
-    },
-    {
-      "platform": "小红书/聚光",
-      "platformId": "xiaohongshu",
-      "region": "domestic",
-      "date": "2026-08-31",
-      "changeType": "strategy",
-      "content": "扩大「种草通」预算门槛至日均5000元，聚焦中大型品牌客户，清退低质量效果广告主。",
-      "impacts": [
-        "客户门槛提升",
-        "品牌化",
-        "内容质量"
-      ],
-      "source": "https://ad.xiaohongshu.com/policy"
     }
   ],
   "reports": [
