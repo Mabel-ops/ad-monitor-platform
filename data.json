@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/30 06:48:16",
+  "lastUpdate": "2026/10/31 06:37:15",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10513亿",
-      "change": 12.5,
-      "changeText": "↑ 12.0% YoY"
+      "value": "$10621亿",
+      "change": 11.1,
+      "changeText": "↑ 11.4% YoY"
     },
     "ecpm": {
-      "value": "¥48.7",
-      "change": -0.7,
-      "changeText": "↓ 0.2% MoM"
+      "value": "¥49.9",
+      "change": 0,
+      "changeText": "↑ 6.3% MoM"
     },
     "aiRatio": {
-      "value": "45.5%",
-      "change": 26.8,
-      "changeText": "↑ 27.1% MoM"
+      "value": "44.2%",
+      "change": 14.5,
+      "changeText": "↑ 11.2% MoM"
     },
     "mobileRatio": {
       "value": "76.5%",
       "change": 2.5,
-      "changeText": "↑ 0.1% MoM"
+      "changeText": "↑ 0.3% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,39 @@
     }
   ],
   "updates": [
+    {
+      "id": "kuaishou-1793428635041",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-10-31",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "中",
+      "source": "https://ad.kuaishou.com/news"
+    },
+    {
+      "id": "tiktok-1793428635041",
+      "platform": "TikTok",
+      "region": "overseas",
+      "date": "2026-10-31",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://business.tiktok.com/updates"
+    },
+    {
+      "id": "x-1793428635041",
+      "platform": "X (Twitter)",
+      "region": "overseas",
+      "date": "2026-10-31",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://business.twitter.com"
+    },
     {
       "id": "google-1793342896248",
       "platform": "Google Ads",
@@ -1182,48 +1215,6 @@
         "AI生成"
       ],
       "source": "https://www.oceanengine.com/news"
-    },
-    {
-      "platform": "抖音/巨量引擎",
-      "platformId": "douyin",
-      "region": "domestic",
-      "date": "2026-09-03",
-      "changeType": "strategy",
-      "content": "调整竞价策略，将「浅层转化」权重降低40%，强制要求广告主设置深度转化目标，提升广告质量。",
-      "impacts": [
-        "质量提升",
-        "门槛提高",
-        "ROI优化"
-      ],
-      "source": "https://www.oceanengine.com/policy"
-    },
-    {
-      "platform": "腾讯广告",
-      "platformId": "tencent",
-      "region": "domestic",
-      "date": "2026-09-02",
-      "changeType": "data",
-      "content": "微信朋友圈广告CTR平均提升至2.8%，视频号信息流广告日均曝光量突破120亿次，成为腾讯广告增长主引擎。",
-      "impacts": [
-        "视频号增长",
-        "曝光量增加",
-        "点击率提升"
-      ],
-      "source": "https://e.qq.com/ads/news"
-    },
-    {
-      "platform": "TikTok",
-      "platformId": "tiktok",
-      "region": "overseas",
-      "date": "2026-09-01",
-      "changeType": "product",
-      "content": "推出TikTok Shop广告直购链路，用户可在不跳转的情况下完成购买，测试市场转化率提升40%。",
-      "impacts": [
-        "转化提升",
-        "电商闭环",
-        "用户体验"
-      ],
-      "source": "https://business.tiktok.com/updates"
     }
   ],
   "reports": [
