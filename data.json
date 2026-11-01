@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/10/31 06:37:15",
+  "lastUpdate": "2026/11/1 07:07:48",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10621亿",
-      "change": 11.1,
-      "changeText": "↑ 11.4% YoY"
+      "value": "$10751亿",
+      "change": 11.7,
+      "changeText": "↑ 11.2% YoY"
     },
     "ecpm": {
-      "value": "¥49.9",
-      "change": 0,
-      "changeText": "↑ 6.3% MoM"
+      "value": "¥46.9",
+      "change": -1.6,
+      "changeText": "↓ 3.7% MoM"
     },
     "aiRatio": {
-      "value": "44.2%",
-      "change": 14.5,
-      "changeText": "↑ 11.2% MoM"
+      "value": "43.5%",
+      "change": 20.2,
+      "changeText": "↑ 20.6% MoM"
     },
     "mobileRatio": {
-      "value": "76.5%",
-      "change": 2.5,
-      "changeText": "↑ 0.3% MoM"
+      "value": "76.9%",
+      "change": 0.5,
+      "changeText": "↑ 1.3% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "meta-1793516868315",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-11-01",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "中",
+      "source": "https://www.facebook.com/business/news"
+    },
+    {
+      "id": "bilibili-1793516868315",
+      "platform": "B站商业化",
+      "region": "domestic",
+      "date": "2026-11-01",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://ad.bilibili.com/news"
+    },
     {
       "id": "kuaishou-1793428635041",
       "platform": "快手/磁力引擎",
@@ -1187,34 +1209,6 @@
         "AI能力"
       ],
       "source": "https://ads.google.com/updates"
-    },
-    {
-      "platform": "Meta",
-      "platformId": "meta",
-      "region": "overseas",
-      "date": "2026-09-04",
-      "changeType": "financial",
-      "content": "Q2财报显示广告收入$385亿，同比增长22%。AI推荐算法带来的广告展示量增长35%，但eCPM下降10%。",
-      "impacts": [
-        "收入增长",
-        "eCPM下降",
-        "AI推荐"
-      ],
-      "source": "https://investor.fb.com/financials"
-    },
-    {
-      "platform": "抖音/巨量引擎",
-      "platformId": "douyin",
-      "region": "domestic",
-      "date": "2026-09-06",
-      "changeType": "product",
-      "content": "上线「即合」AI视频生成工具，支持从文本/图片一键生成15秒竖屏广告，日均生成量突破50万条。",
-      "impacts": [
-        "创意效率",
-        "降低门槛",
-        "AI生成"
-      ],
-      "source": "https://www.oceanengine.com/news"
     }
   ],
   "reports": [
