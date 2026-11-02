@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/1 07:07:48",
+  "lastUpdate": "2026/11/2 07:13:09",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10751亿",
-      "change": 11.7,
-      "changeText": "↑ 11.2% YoY"
+      "value": "$10709亿",
+      "change": 13,
+      "changeText": "↑ 11.5% YoY"
     },
     "ecpm": {
-      "value": "¥46.9",
-      "change": -1.6,
-      "changeText": "↓ 3.7% MoM"
+      "value": "¥47.7",
+      "change": 2.4,
+      "changeText": "↑ 2.0% MoM"
     },
     "aiRatio": {
-      "value": "43.5%",
-      "change": 20.2,
-      "changeText": "↑ 20.6% MoM"
+      "value": "44.2%",
+      "change": 18.9,
+      "changeText": "↑ 23.9% MoM"
     },
     "mobileRatio": {
-      "value": "76.9%",
-      "change": 0.5,
-      "changeText": "↑ 1.3% MoM"
+      "value": "78.9%",
+      "change": 0.2,
+      "changeText": "↑ 0.5% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "bilibili-1793603589338",
+      "platform": "B站商业化",
+      "region": "domestic",
+      "date": "2026-11-02",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "中",
+      "source": "https://ad.bilibili.com/news"
+    },
+    {
+      "id": "tiktok-1793603589338",
+      "platform": "TikTok",
+      "region": "overseas",
+      "date": "2026-11-02",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "高",
+      "source": "https://business.tiktok.com/updates"
+    },
     {
       "id": "meta-1793516868315",
       "platform": "Meta",
@@ -1183,31 +1205,6 @@
       "title": "调整平台政策",
       "content": "更新广告投放政策和规则，规范平台生态。",
       "impact": "低",
-      "source": "https://ads.google.com/updates"
-    },
-    {
-      "id": "xiaohongshu-1789463069564",
-      "platform": "小红书/聚光",
-      "region": "domestic",
-      "date": "2026-09-15",
-      "type": "ai",
-      "title": "推出AI生成式创意工具",
-      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
-      "impact": "高",
-      "source": "https://ad.xiaohongshu.com/news"
-    },
-    {
-      "platform": "Google Ads",
-      "platformId": "google",
-      "region": "overseas",
-      "date": "2026-09-05",
-      "changeType": "product",
-      "content": "推出AI Agent广告投放助手，可自动优化出价策略、创意组合和受众定向，测试显示转化成本降低25%。",
-      "impacts": [
-        "效率提升",
-        "成本优化",
-        "AI能力"
-      ],
       "source": "https://ads.google.com/updates"
     }
   ],
