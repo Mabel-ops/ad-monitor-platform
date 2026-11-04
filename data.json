@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/3 07:33:22",
+  "lastUpdate": "2026/11/4 07:14:41",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10665亿",
-      "change": 12.8,
-      "changeText": "↑ 11.2% YoY"
+      "value": "$10742亿",
+      "change": 11.1,
+      "changeText": "↑ 12.5% YoY"
     },
     "ecpm": {
-      "value": "¥40.3",
-      "change": 2.2,
-      "changeText": "↑ 3.0% MoM"
+      "value": "¥45.5",
+      "change": -3.8,
+      "changeText": "↓ 1.7% MoM"
     },
     "aiRatio": {
-      "value": "44.6%",
-      "change": 17.7,
-      "changeText": "↑ 27.8% MoM"
+      "value": "44.3%",
+      "change": 28.2,
+      "changeText": "↑ 29.7% MoM"
     },
     "mobileRatio": {
-      "value": "76.8%",
-      "change": 2.3,
-      "changeText": "↑ 1.2% MoM"
+      "value": "77.7%",
+      "change": 2.4,
+      "changeText": "↑ 1.6% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "kuaishou-1793776481124",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-11-04",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "高",
+      "source": "https://ad.kuaishou.com/news"
+    },
     {
       "id": "xiaohongshu-1793691202706",
       "platform": "小红书/聚光",
@@ -1195,17 +1206,6 @@
       "content": "更新广告投放政策和规则，规范平台生态。",
       "impact": "中",
       "source": "https://business.twitter.com"
-    },
-    {
-      "id": "meta-1789520365077",
-      "platform": "Meta",
-      "region": "overseas",
-      "date": "2026-09-16",
-      "type": "ai",
-      "title": "推出AI生成式创意工具",
-      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
-      "impact": "中",
-      "source": "https://www.facebook.com/business/news"
     }
   ],
   "reports": [
