@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/4 07:14:41",
+  "lastUpdate": "2026/11/5 07:42:56",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10742亿",
+      "value": "$10733亿",
       "change": 11.1,
-      "changeText": "↑ 12.5% YoY"
+      "changeText": "↑ 11.9% YoY"
     },
     "ecpm": {
-      "value": "¥45.5",
-      "change": -3.8,
-      "changeText": "↓ 1.7% MoM"
+      "value": "¥43.5",
+      "change": 3.5,
+      "changeText": "↑ 4.4% MoM"
     },
     "aiRatio": {
-      "value": "44.3%",
-      "change": 28.2,
-      "changeText": "↑ 29.7% MoM"
+      "value": "46.7%",
+      "change": 24.9,
+      "changeText": "↑ 14.2% MoM"
     },
     "mobileRatio": {
-      "value": "77.7%",
-      "change": 2.4,
-      "changeText": "↑ 1.6% MoM"
+      "value": "78.6%",
+      "change": 0.9,
+      "changeText": "↑ 2.0% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "bilibili-1793864576686",
+      "platform": "B站商业化",
+      "region": "domestic",
+      "date": "2026-11-05",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "低",
+      "source": "https://ad.bilibili.com/news"
+    },
     {
       "id": "kuaishou-1793776481124",
       "platform": "快手/磁力引擎",
@@ -1195,17 +1206,6 @@
       "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
       "impact": "低",
       "source": "https://business.tiktok.com/updates"
-    },
-    {
-      "id": "x-1789520365078",
-      "platform": "X (Twitter)",
-      "region": "overseas",
-      "date": "2026-09-16",
-      "type": "policy",
-      "title": "调整平台政策",
-      "content": "更新广告投放政策和规则，规范平台生态。",
-      "impact": "中",
-      "source": "https://business.twitter.com"
     }
   ],
   "reports": [
