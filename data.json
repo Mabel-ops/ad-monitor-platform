@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/5 07:42:56",
+  "lastUpdate": "2026/11/6 07:38:48",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$10733亿",
-      "change": 11.1,
-      "changeText": "↑ 11.9% YoY"
+      "value": "$10709亿",
+      "change": 11.6,
+      "changeText": "↑ 11.6% YoY"
     },
     "ecpm": {
-      "value": "¥43.5",
-      "change": 3.5,
-      "changeText": "↑ 4.4% MoM"
+      "value": "¥42.7",
+      "change": 0.6,
+      "changeText": "↑ 6.9% MoM"
     },
     "aiRatio": {
-      "value": "46.7%",
-      "change": 24.9,
-      "changeText": "↑ 14.2% MoM"
+      "value": "45.8%",
+      "change": 16.8,
+      "changeText": "↑ 12.0% MoM"
     },
     "mobileRatio": {
-      "value": "78.6%",
-      "change": 0.9,
-      "changeText": "↑ 2.0% MoM"
+      "value": "79.3%",
+      "change": 2.5,
+      "changeText": "↑ 0.4% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,39 @@
     }
   ],
   "updates": [
+    {
+      "id": "x-1793950728005",
+      "platform": "X (Twitter)",
+      "region": "overseas",
+      "date": "2026-11-06",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "高",
+      "source": "https://business.twitter.com"
+    },
+    {
+      "id": "meta-1793950728005",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-11-06",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "高",
+      "source": "https://www.facebook.com/business/news"
+    },
+    {
+      "id": "tencent-1793950728004",
+      "platform": "腾讯广告",
+      "region": "domestic",
+      "date": "2026-11-06",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://e.qq.com/ads/news"
+    },
     {
       "id": "bilibili-1793864576686",
       "platform": "B站商业化",
@@ -1173,39 +1206,6 @@
       "content": "升级智能投放系统，提升广告投放精准度和ROI。",
       "impact": "中",
       "source": "https://e.qq.com/ads/news"
-    },
-    {
-      "id": "kuaishou-1789693768321",
-      "platform": "快手/磁力引擎",
-      "region": "domestic",
-      "date": "2026-09-18",
-      "type": "tool",
-      "title": "发布营销工具更新",
-      "content": "推出新版营销工具，优化广告主操作体验和效率。",
-      "impact": "低",
-      "source": "https://ad.kuaishou.com/news"
-    },
-    {
-      "id": "kuaishou-1789607395512",
-      "platform": "快手/磁力引擎",
-      "region": "domestic",
-      "date": "2026-09-17",
-      "type": "policy",
-      "title": "调整平台政策",
-      "content": "更新广告投放政策和规则，规范平台生态。",
-      "impact": "高",
-      "source": "https://ad.kuaishou.com/news"
-    },
-    {
-      "id": "tiktok-1789521197363",
-      "platform": "TikTok",
-      "region": "overseas",
-      "date": "2026-09-16",
-      "type": "product",
-      "title": "上线新广告形式",
-      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
-      "impact": "低",
-      "source": "https://business.tiktok.com/updates"
     }
   ],
   "reports": [
