@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/9 07:39:46",
+  "lastUpdate": "2026/11/10 07:59:27",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$11030亿",
-      "change": 12.5,
-      "changeText": "↑ 11.5% YoY"
+      "value": "$11065亿",
+      "change": 12.1,
+      "changeText": "↑ 11.8% YoY"
     },
     "ecpm": {
-      "value": "¥45.3",
-      "change": 2.5,
-      "changeText": "↑ 5.5% MoM"
+      "value": "¥40.7",
+      "change": 3,
+      "changeText": "↓ 1.2% MoM"
     },
     "aiRatio": {
-      "value": "45.6%",
-      "change": 17.6,
-      "changeText": "↑ 27.3% MoM"
+      "value": "43.6%",
+      "change": 25.6,
+      "changeText": "↑ 19.2% MoM"
     },
     "mobileRatio": {
-      "value": "78.5%",
-      "change": 0.9,
-      "changeText": "↑ 2.0% MoM"
+      "value": "79.3%",
+      "change": 2.1,
+      "changeText": "↑ 2.7% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "google-1794297567728",
+      "platform": "Google Ads",
+      "region": "overseas",
+      "date": "2026-11-10",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "中",
+      "source": "https://ads.google.com/updates"
+    },
     {
       "id": "x-1794209986395",
       "platform": "X (Twitter)",
@@ -1195,17 +1206,6 @@
       "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
       "impact": "中",
       "source": "https://ads.google.com/updates"
-    },
-    {
-      "id": "x-1790125767107",
-      "platform": "X (Twitter)",
-      "region": "overseas",
-      "date": "2026-09-23",
-      "type": "ai",
-      "title": "推出AI生成式创意工具",
-      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
-      "impact": "高",
-      "source": "https://business.twitter.com"
     }
   ],
   "reports": [
