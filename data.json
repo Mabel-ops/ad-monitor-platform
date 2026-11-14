@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/13 07:36:16",
+  "lastUpdate": "2026/11/14 07:20:37",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$11258亿",
-      "change": 12.5,
-      "changeText": "↑ 12.2% YoY"
+      "value": "$11230亿",
+      "change": 11.3,
+      "changeText": "↑ 11.8% YoY"
     },
     "ecpm": {
-      "value": "¥47.3",
-      "change": -1.7,
-      "changeText": "↑ 5.2% MoM"
+      "value": "¥49.2",
+      "change": 0.8,
+      "changeText": "↓ 7.3% MoM"
     },
     "aiRatio": {
-      "value": "45.1%",
-      "change": 24.3,
-      "changeText": "↑ 28.4% MoM"
+      "value": "47.0%",
+      "change": 28.1,
+      "changeText": "↑ 24.3% MoM"
     },
     "mobileRatio": {
-      "value": "79.8%",
-      "change": 1.4,
-      "changeText": "↑ 1.2% MoM"
+      "value": "77.2%",
+      "change": 0.7,
+      "changeText": "↑ 0.9% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "kuaishou-1794640837767",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-11-14",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://ad.kuaishou.com/news"
+    },
+    {
+      "id": "google-1794640837767",
+      "platform": "Google Ads",
+      "region": "overseas",
+      "date": "2026-11-14",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "中",
+      "source": "https://ads.google.com/updates"
+    },
     {
       "id": "xiaohongshu-1794555376730",
       "platform": "小红书/聚光",
@@ -1184,28 +1206,6 @@
       "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
       "impact": "低",
       "source": "https://ad.xiaohongshu.com/news"
-    },
-    {
-      "id": "kuaishou-1790471368436",
-      "platform": "快手/磁力引擎",
-      "region": "domestic",
-      "date": "2026-09-27",
-      "type": "ai",
-      "title": "推出AI生成式创意工具",
-      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
-      "impact": "低",
-      "source": "https://ad.kuaishou.com/news"
-    },
-    {
-      "id": "bilibili-1790384902303",
-      "platform": "B站商业化",
-      "region": "domestic",
-      "date": "2026-09-26",
-      "type": "product",
-      "title": "上线新广告形式",
-      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
-      "impact": "高",
-      "source": "https://ad.bilibili.com/news"
     }
   ],
   "reports": [
