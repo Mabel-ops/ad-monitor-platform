@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/15 07:33:17",
+  "lastUpdate": "2026/11/16 07:39:18",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$11271亿",
-      "change": 11.6,
-      "changeText": "↑ 12.2% YoY"
+      "value": "$11359亿",
+      "change": 13,
+      "changeText": "↑ 12.9% YoY"
     },
     "ecpm": {
-      "value": "¥44.4",
-      "change": -0.5,
-      "changeText": "↑ 2.3% MoM"
+      "value": "¥43.2",
+      "change": 3.3,
+      "changeText": "↑ 7.4% MoM"
     },
     "aiRatio": {
-      "value": "45.4%",
-      "change": 22.2,
-      "changeText": "↑ 23.6% MoM"
+      "value": "43.4%",
+      "change": 25.1,
+      "changeText": "↑ 10.3% MoM"
     },
     "mobileRatio": {
-      "value": "77.8%",
-      "change": 1.5,
-      "changeText": "↑ 2.2% MoM"
+      "value": "79.3%",
+      "change": 0.1,
+      "changeText": "↑ 1.0% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "kuaishou-1794814758434",
+      "platform": "快手/磁力引擎",
+      "region": "domestic",
+      "date": "2026-11-16",
+      "type": "policy",
+      "title": "调整平台政策",
+      "content": "更新广告投放政策和规则，规范平台生态。",
+      "impact": "低",
+      "source": "https://ad.kuaishou.com/news"
+    },
+    {
+      "id": "douyin-1794814758434",
+      "platform": "抖音/巨量引擎",
+      "region": "domestic",
+      "date": "2026-11-16",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "中",
+      "source": "https://www.oceanengine.com/news"
+    },
     {
       "id": "kuaishou-1794727997648",
       "platform": "快手/磁力引擎",
@@ -1184,28 +1206,6 @@
       "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
       "impact": "高",
       "source": "https://business.tiktok.com/updates"
-    },
-    {
-      "id": "x-1790644238290",
-      "platform": "X (Twitter)",
-      "region": "overseas",
-      "date": "2026-09-29",
-      "type": "data",
-      "title": "优化投放算法",
-      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
-      "impact": "中",
-      "source": "https://business.twitter.com"
-    },
-    {
-      "id": "kuaishou-1790644238290",
-      "platform": "快手/磁力引擎",
-      "region": "domestic",
-      "date": "2026-09-29",
-      "type": "tool",
-      "title": "发布营销工具更新",
-      "content": "推出新版营销工具，优化广告主操作体验和效率。",
-      "impact": "高",
-      "source": "https://ad.kuaishou.com/news"
     }
   ],
   "reports": [
