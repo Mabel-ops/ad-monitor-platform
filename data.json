@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/21 07:58:37",
+  "lastUpdate": "2026/11/22 07:45:20",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$11457亿",
-      "change": 12.8,
-      "changeText": "↑ 12.6% YoY"
+      "value": "$11400亿",
+      "change": 11.2,
+      "changeText": "↑ 12.8% YoY"
     },
     "ecpm": {
-      "value": "¥49.9",
-      "change": 1,
-      "changeText": "↓ 5.3% MoM"
+      "value": "¥49.8",
+      "change": 1.9,
+      "changeText": "↑ 6.6% MoM"
     },
     "aiRatio": {
-      "value": "46.3%",
-      "change": 12.4,
-      "changeText": "↑ 20.6% MoM"
+      "value": "47.7%",
+      "change": 29.2,
+      "changeText": "↑ 22.7% MoM"
     },
     "mobileRatio": {
-      "value": "78.2%",
-      "change": 2.8,
-      "changeText": "↑ 2.3% MoM"
+      "value": "76.7%",
+      "change": 1.6,
+      "changeText": "↑ 1.6% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "x-1795333520946",
+      "platform": "X (Twitter)",
+      "region": "overseas",
+      "date": "2026-11-22",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "中",
+      "source": "https://business.twitter.com"
+    },
+    {
+      "id": "meta-1795333520946",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-11-22",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "中",
+      "source": "https://www.facebook.com/business/news"
+    },
     {
       "id": "bilibili-1795247917036",
       "platform": "B站商业化",
@@ -1184,28 +1206,6 @@
       "content": "推出新版营销工具，优化广告主操作体验和效率。",
       "impact": "低",
       "source": "https://e.qq.com/ads/news"
-    },
-    {
-      "id": "bilibili-1791162683069",
-      "platform": "B站商业化",
-      "region": "domestic",
-      "date": "2026-10-05",
-      "type": "ai",
-      "title": "推出AI生成式创意工具",
-      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
-      "impact": "中",
-      "source": "https://ad.bilibili.com/news"
-    },
-    {
-      "id": "x-1791162683069",
-      "platform": "X (Twitter)",
-      "region": "overseas",
-      "date": "2026-10-05",
-      "type": "product",
-      "title": "上线新广告形式",
-      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
-      "impact": "高",
-      "source": "https://business.twitter.com"
     }
   ],
   "reports": [
