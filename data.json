@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/22 07:45:20",
+  "lastUpdate": "2026/11/23 08:34:51",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$11400亿",
-      "change": 11.2,
-      "changeText": "↑ 12.8% YoY"
+      "value": "$11520亿",
+      "change": 12.3,
+      "changeText": "↑ 12.7% YoY"
     },
     "ecpm": {
-      "value": "¥49.8",
-      "change": 1.9,
-      "changeText": "↑ 6.6% MoM"
+      "value": "¥47.6",
+      "change": 1.2,
+      "changeText": "↑ 7.1% MoM"
     },
     "aiRatio": {
-      "value": "47.7%",
-      "change": 29.2,
-      "changeText": "↑ 22.7% MoM"
+      "value": "43.1%",
+      "change": 22.6,
+      "changeText": "↑ 25.3% MoM"
     },
     "mobileRatio": {
-      "value": "76.7%",
-      "change": 1.6,
-      "changeText": "↑ 1.6% MoM"
+      "value": "79.6%",
+      "change": 2.3,
+      "changeText": "↑ 2.9% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,17 @@
     }
   ],
   "updates": [
+    {
+      "id": "google-1795422891865",
+      "platform": "Google Ads",
+      "region": "overseas",
+      "date": "2026-11-23",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "低",
+      "source": "https://ads.google.com/updates"
+    },
     {
       "id": "x-1795333520946",
       "platform": "X (Twitter)",
@@ -1193,17 +1204,6 @@
       "type": "data",
       "title": "优化投放算法",
       "content": "升级智能投放系统，提升广告投放精准度和ROI。",
-      "impact": "低",
-      "source": "https://e.qq.com/ads/news"
-    },
-    {
-      "id": "tencent-1791249054261",
-      "platform": "腾讯广告",
-      "region": "domestic",
-      "date": "2026-10-06",
-      "type": "tool",
-      "title": "发布营销工具更新",
-      "content": "推出新版营销工具，优化广告主操作体验和效率。",
       "impact": "低",
       "source": "https://e.qq.com/ads/news"
     }
