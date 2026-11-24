@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/23 08:34:51",
+  "lastUpdate": "2026/11/24 10:40:25",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$11520亿",
-      "change": 12.3,
-      "changeText": "↑ 12.7% YoY"
+      "value": "$11652亿",
+      "change": 11.9,
+      "changeText": "↑ 12.6% YoY"
     },
     "ecpm": {
-      "value": "¥47.6",
-      "change": 1.2,
-      "changeText": "↑ 7.1% MoM"
+      "value": "¥45.3",
+      "change": 0.1,
+      "changeText": "↓ 6.5% MoM"
     },
     "aiRatio": {
-      "value": "43.1%",
-      "change": 22.6,
-      "changeText": "↑ 25.3% MoM"
+      "value": "46.1%",
+      "change": 25.6,
+      "changeText": "↑ 21.5% MoM"
     },
     "mobileRatio": {
-      "value": "79.6%",
-      "change": 2.3,
-      "changeText": "↑ 2.9% MoM"
+      "value": "77.6%",
+      "change": 3,
+      "changeText": "↑ 1.7% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,39 @@
     }
   ],
   "updates": [
+    {
+      "id": "meta-1795516825277",
+      "platform": "Meta",
+      "region": "overseas",
+      "date": "2026-11-24",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://www.facebook.com/business/news"
+    },
+    {
+      "id": "x-1795516825277",
+      "platform": "X (Twitter)",
+      "region": "overseas",
+      "date": "2026-11-24",
+      "type": "data",
+      "title": "优化投放算法",
+      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
+      "impact": "中",
+      "source": "https://business.twitter.com"
+    },
+    {
+      "id": "tencent-1795516825276",
+      "platform": "腾讯广告",
+      "region": "domestic",
+      "date": "2026-11-24",
+      "type": "ai",
+      "title": "推出AI生成式创意工具",
+      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
+      "impact": "高",
+      "source": "https://e.qq.com/ads/news"
+    },
     {
       "id": "google-1795422891865",
       "platform": "Google Ads",
@@ -1173,39 +1206,6 @@
       "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
       "impact": "低",
       "source": "https://ad.xiaohongshu.com/news"
-    },
-    {
-      "id": "meta-1791335549168",
-      "platform": "Meta",
-      "region": "overseas",
-      "date": "2026-10-07",
-      "type": "policy",
-      "title": "调整平台政策",
-      "content": "更新广告投放政策和规则，规范平台生态。",
-      "impact": "中",
-      "source": "https://www.facebook.com/business/news"
-    },
-    {
-      "id": "tencent-1791249054262",
-      "platform": "腾讯广告",
-      "region": "domestic",
-      "date": "2026-10-06",
-      "type": "ai",
-      "title": "推出AI生成式创意工具",
-      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
-      "impact": "高",
-      "source": "https://e.qq.com/ads/news"
-    },
-    {
-      "id": "tencent-1791249054262",
-      "platform": "腾讯广告",
-      "region": "domestic",
-      "date": "2026-10-06",
-      "type": "data",
-      "title": "优化投放算法",
-      "content": "升级智能投放系统，提升广告投放精准度和ROI。",
-      "impact": "低",
-      "source": "https://e.qq.com/ads/news"
     }
   ],
   "reports": [
