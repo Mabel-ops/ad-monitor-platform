@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026/11/24 10:40:25",
+  "lastUpdate": "2026/11/25 09:31:55",
   "trends": [
     {
       "type": "new",
@@ -22,24 +22,24 @@
   ],
   "overview": {
     "marketSize": {
-      "value": "$11652亿",
-      "change": 11.9,
-      "changeText": "↑ 12.6% YoY"
+      "value": "$11777亿",
+      "change": 11.1,
+      "changeText": "↑ 11.9% YoY"
     },
     "ecpm": {
-      "value": "¥45.3",
-      "change": 0.1,
-      "changeText": "↓ 6.5% MoM"
+      "value": "¥45.1",
+      "change": 3,
+      "changeText": "↑ 7.5% MoM"
     },
     "aiRatio": {
-      "value": "46.1%",
-      "change": 25.6,
-      "changeText": "↑ 21.5% MoM"
+      "value": "45.9%",
+      "change": 20.7,
+      "changeText": "↑ 15.6% MoM"
     },
     "mobileRatio": {
-      "value": "77.6%",
-      "change": 3,
-      "changeText": "↑ 1.7% MoM"
+      "value": "79.6%",
+      "change": 2.5,
+      "changeText": "↑ 0.3% MoM"
     }
   },
   "marketShare": [
@@ -107,6 +107,28 @@
     }
   ],
   "updates": [
+    {
+      "id": "tencent-1795599115597",
+      "platform": "腾讯广告",
+      "region": "domestic",
+      "date": "2026-11-25",
+      "type": "product",
+      "title": "上线新广告形式",
+      "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
+      "impact": "中",
+      "source": "https://e.qq.com/ads/news"
+    },
+    {
+      "id": "bilibili-1795599115597",
+      "platform": "B站商业化",
+      "region": "domestic",
+      "date": "2026-11-25",
+      "type": "tool",
+      "title": "发布营销工具更新",
+      "content": "推出新版营销工具，优化广告主操作体验和效率。",
+      "impact": "中",
+      "source": "https://ad.bilibili.com/news"
+    },
     {
       "id": "meta-1795516825277",
       "platform": "Meta",
@@ -1184,28 +1206,6 @@
       "content": "推出创新广告展示形式，提升用户互动率和转化效果。",
       "impact": "中",
       "source": "https://business.tiktok.com/updates"
-    },
-    {
-      "id": "xiaohongshu-1791421964587",
-      "platform": "小红书/聚光",
-      "region": "domestic",
-      "date": "2026-10-08",
-      "type": "policy",
-      "title": "调整平台政策",
-      "content": "更新广告投放政策和规则，规范平台生态。",
-      "impact": "中",
-      "source": "https://ad.xiaohongshu.com/news"
-    },
-    {
-      "id": "xiaohongshu-1791335549168",
-      "platform": "小红书/聚光",
-      "region": "domestic",
-      "date": "2026-10-07",
-      "type": "ai",
-      "title": "推出AI生成式创意工具",
-      "content": "发布AI驱动的创意生成功能，支持自动生成广告文案和素材。",
-      "impact": "低",
-      "source": "https://ad.xiaohongshu.com/news"
     }
   ],
   "reports": [
